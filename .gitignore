@@ -11,9 +11,6 @@ __pycache__/
 .env
 .env.*
 
-# Audio output
-output.mp3
-
 # OS files
 .DS_Store
 Thumbs.db
